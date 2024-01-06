@@ -115,7 +115,7 @@ motor1.run(RELEASE);
 ```
 
 Si le mot de passe est correct alors on avance l’actionneur, sinon on le recule
-
+ 
 # Rendu final
 
 ![Image4 (1)](https://user-images.githubusercontent.com/92324336/139722311-309ce73f-6b7e-4022-828f-737cbf0f8b2b.gif)
